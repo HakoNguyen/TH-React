@@ -68,6 +68,16 @@ export default [
 		component: './BaoCao',
 		icon: 'SmileOutlined',
 	},
+	// {
+	// 	path: '/responsive',
+	// 	name: 'Responsive',
+	// 	component: './Responsive',
+	// },
+	{
+		path: '/classroom_manager',
+		name: 'ClassroomManager',
+		component: './Classroom_manager',
+	},
 
 	// DANH MUC HE THONG
 	// {
