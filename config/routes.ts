@@ -78,6 +78,11 @@ export default [
 		name: 'ClassroomManager',
 		component: './Classroom_manager',
 	},
+	{
+		path: './member_table',
+		name: 'MemberTable',
+		component: './MemberTable',
+	},
 
 	// DANH MUC HE THONG
 	// {
