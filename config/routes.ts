@@ -79,9 +79,14 @@ export default [
 		component: './Classroom_manager',
 	},
 	{
-		path: './member_table',
+		path: '/member_table',
 		name: 'MemberTable',
 		component: './MemberTable',
+	},
+	{
+		path: './QuanLyNganSach',
+		name: 'QuanLyNganSach',
+		component: './QuanLyNganSach',
 	},
 
 	// DANH MUC HE THONG
